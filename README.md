@@ -7,7 +7,7 @@ https://mail-django-app.herokuapp.com/
 #Setup
 
 Clone this repository:
-git clone https://github.com/calumbell/cs50w-mail
+git clone https://github.com/mathuranish/Mail
 cd mail
 
 Install dependencies:
